@@ -14,5 +14,10 @@
     "url": "https://github.com/HrithikMittal"
   },
   "author": "Adhikansh Mittal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.5"
+  }
 }
