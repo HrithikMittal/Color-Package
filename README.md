@@ -1,3 +1,3 @@
 # Color-Package
-![](https://giphy.com/embed/3oEduLsDDy5R2e7UJi.gif)
+![](https://media.giphy.com/media/3oEduLsDDy5R2e7UJi/giphy.gif)
 
